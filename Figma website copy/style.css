@@ -1,0 +1,71 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      a {
+        text-decoration: none;
+      }
+      header {
+        background-image: url("./Rectangle\ 18.svg");
+        height: 588px;
+        max-width: 1512px;
+        margin: auto;
+        background-size: cover;
+        background-position: center;
+      }
+      header > h1 {
+        font-family: Shojumaru;
+        font-weight: 400;
+        font-style: Regular;
+        font-size: 45px;
+        line-height: 119%;
+        letter-spacing: 0%;
+        text-align: center;
+        color: #FBF6F6;
+        margin-top: 178px;
+        width: 1262px;
+        height: 108px;
+      }
+      nav > a {
+        font-family: ZCOOL KuaiLe;
+        font-weight: 400;
+        font-style: Regular;
+        font-size: 32px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        text-align: center;
+        color: white;
+      }
+      nav > div {
+        background: #191818;
+        display: inline;
+        padding: 16px 24px 16px 0;
+        border-radius: 20px;
+        margin-left: 178px;
+        margin-right: 215px;
+      }
+      nav > div > a {
+        color: white;
+        font-family: ZCOOL KuaiLe;
+        font-weight: 400;
+        font-style: Regular;
+        font-size: 20px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        text-align: center;
+        margin-left: 24px;
+      }
+      nav button {
+        background: linear-gradient(93.73deg, #ED0137 20.19%, #F05733 88.3%);
+        border: none;
+        padding: 10px 16px;
+        border-radius: 15.5px;
+        font-family: Poppins;
+        font-weight: 600;
+        font-style: SemiBold;
+        font-size: 12px;
+        line-height: 100%;
+        letter-spacing: 0%;
+        color: #FBF6F6;
+      }
